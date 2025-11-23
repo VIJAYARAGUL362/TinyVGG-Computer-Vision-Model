@@ -2,6 +2,8 @@
 
 A deep learning project implementing three different neural network architectures to classify Fashion MNIST dataset images, progressing from basic fully connected networks to convolutional neural networks (CNNs).
 
+> 🎓 **Learning Project**: Built while following Daniel Bourke's ["Learn PyTorch for Deep Learning in a Day. Literally."](https://www.youtube.com/watch?v=Z_ikDlimN6A) course on YouTube.
+
 ## 📋 Project Overview
 
 This project explores image classification on the Fashion MNIST dataset using PyTorch, implementing and comparing three different model architectures:
@@ -135,10 +137,17 @@ loaded_model.to(device)
 
 ## 📚 Learning Resources
 
-This project was created by following Daniel Bourke's PyTorch course on YouTube. Special thanks to:
-- [PyTorch for Deep Learning & Machine Learning](https://www.youtube.com/c/DanielBourke)
+This project was created by following **Daniel Bourke's** excellent PyTorch course: **"Learn PyTorch for Deep Learning in a Day. Literally."**
+
+### Course Information
+- 🎥 **YouTube Course**: [Learn PyTorch for Deep Learning in a Day. Literally.](https://www.youtube.com/watch?v=Z_ikDlimN6A)
+- 📖 **Course Materials**: [PyTorch Deep Learning Repository](https://github.com/mrdbourke/pytorch-deep-learning)
+- 👨‍🏫 **Instructor**: Daniel Bourke ([@mrdbourke](https://github.com/mrdbourke))
+
+### Additional Resources
 - [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
 - [Fashion MNIST Dataset](https://github.com/zalandoresearch/fashion-mnist)
+- [PyTorch Vision Models](https://pytorch.org/vision/stable/models.html)
 
 ## 🤝 Contributing
 
@@ -154,9 +163,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **Daniel Bourke** for the excellent PyTorch tutorial series
+- **Daniel Bourke** ([@mrdbourke](https://github.com/mrdbourke)) for the comprehensive PyTorch course ["Learn PyTorch for Deep Learning in a Day. Literally."](https://www.youtube.com/watch?v=Z_ikDlimN6A)
 - **Zalando Research** for the Fashion MNIST dataset
 - **PyTorch Team** for the amazing deep learning framework
+
+### About the Course
+Daniel Bourke's PyTorch course is a beginner-friendly, hands-on introduction to deep learning that covers:
+- PyTorch fundamentals and tensor operations
+- Building neural networks from scratch
+- Computer vision with CNNs
+- Transfer learning and model deployment
+- Best practices for deep learning workflows
+
+**Highly recommended** for anyone starting their deep learning journey! 🚀
 
 ## 📧 Contact
 
